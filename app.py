@@ -9,6 +9,8 @@ import datetime
 import requests
 import pandas as pd
 import streamlit as st
+import google import genai
+import google.genai import types
 
 # Import separate business logics
 from trade_engine import (
